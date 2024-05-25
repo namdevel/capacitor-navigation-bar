@@ -24,7 +24,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/namdevel/navigation-bar.git"
+    "url": "git+https://github.com/namdevel/capacitor-navigation-bar.git"
   },
   "keywords": [
     "capacitor",
